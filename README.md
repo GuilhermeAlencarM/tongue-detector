@@ -1,5 +1,30 @@
 #tongue-detector
 
+Detecta o idioma de um determinado texto
+
+    idiomas:
+    -----------
+    Estonian: Estoniano,
+    Swedish: Sueco,
+    English: Inglês,
+    Russian: Russo,
+    Romanian: Romeno,
+    Persian: Persa,
+    Pushto: Pashto,
+    Spanish: Espanhol,
+    Hindi: Hindi,
+    Korean: Coreano,
+    French: Francês,
+    Portuguese: Português,
+    Indonesian: Indonésio,
+    Urdu: Urdu,
+    Latin: Latim,
+    Turkish: Turco,
+    Dutch: Holandês,
+    Tamil: Tâmil,
+    Thai: Tailandês,
+    Arabic: Árabe,
+
 Instalação
 
     Clone o repositório:
